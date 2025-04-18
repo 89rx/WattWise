@@ -41,4 +41,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar; //lets go to argo
+export default Navbar;
